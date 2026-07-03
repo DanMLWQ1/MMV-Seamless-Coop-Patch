@@ -1,0 +1,12 @@
+profileVersion = "v1"
+start_online = true
+
+[[supports]]
+game = "nightrein"
+
+[[packages]] 
+path = 'mod'
+
+[[natives]] 
+path = 'mod/SeamlessCoop/nrsc.dll'
+load_early = true
