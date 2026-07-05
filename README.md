@@ -15,7 +15,7 @@
 
 **Download links**
 
-- me3: https://www.nexusmods.com/eldenringnightreign/mods/213?tab=files
+- me3: https://github.com/garyttierney/me3/releases
 - MMV: https://www.nexusmods.com/eldenringnightreign/mods/578
 - Seamless Co-op: https://www.nexusmods.com/eldenringnightreign/mods/3?tab=files
 - MMV Seamless.me3: https://github.com/DanMLWQ1/MMV-Seamless-Coop-Patch/releases/download/buh/MMV.Seamless.me3
